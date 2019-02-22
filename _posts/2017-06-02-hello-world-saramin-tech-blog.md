@@ -3,6 +3,7 @@ layout: post
 title: Hello World
 subtitle: "Hello World, Hello Saramin Tech Blog"
 bigimg: /img/post-bg-2015.jpg
+author: 남광현
 ---
 
 {: .box-note}
